@@ -7,14 +7,17 @@ Welcome to wsq's documentation!
 ===============================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+    :maxdepth: 2
 
 
+    datastructure/index
+    math/index
+    booknote/index
+    opensource/index
+    other/index
 
 Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+===============================
+    :ref:`genindex`
+    :ref:`modindex`
+    :ref:`search`
